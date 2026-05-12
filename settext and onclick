@@ -1,0 +1,10 @@
+  TextView txtgamil = findViewById(R.id.txtgamil);
+    txtgamil.setText("sadfasdfsadfasdf");
+    Button btnchang = findViewById(R.id.btnchang);
+
+    btnchang.setOnClickListener(new View.OnClickListener() {
+      @Override
+      public void onClick(View v) {
+        
+      }
+    });
